@@ -1,0 +1,14 @@
+{
+    "name": "Hamster.StateMachine.Libray",
+    "rootNamespace": "Hamster.Library",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
